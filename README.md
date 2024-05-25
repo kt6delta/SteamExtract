@@ -26,12 +26,12 @@ Sigue estos pasos para ejecutar los códigos de datos y limpieza:
 
     d. **Descomenta la creación de carpetas**: En el archivo `datos.py` en las `líneas 66 y 67`, y en el archivo `limpieza.py` en la `línea 330`, descomenta la creación de carpetas para que funcione el programa. Después de ejecutarlo la primera vez, vuelve a comentar estas líneas.
 
-5. **Ejecuta los códigos**: Ejecuta los siguientes comandos para ejecutar los códigos de datos y limpieza:
+5. **Ejecuta los códigos**: Ejecuta los siguientes comandos para ejecutar los códigos de datos, limpieza y para graficar:
     ```bash
     python datos.py
     python union.py
     python limpieza.py
-    python graficos.py
+    python graficos.ipynb
     ```
 
 6. **Verifica los resultados**: Ahora, deberías tener un archivo `steam.csv` con la información filtrada. (este archivo se genera en una carpeta data fuera de la carpeta actual)
