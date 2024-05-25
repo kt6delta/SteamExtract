@@ -1,0 +1,8 @@
+numpy==1.21.2
+pandas==1.3.3
+requests==2.26.0
+IPython==7.28.0
+matplotlib
+seaborn
+python-dotenv
+mysql-connector-python
