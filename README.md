@@ -38,7 +38,10 @@ Sigue estos pasos para ejecutar los códigos de datos y limpieza:
 
    ![Captura de pantalla 2024-05-25 150902](https://github.com/kt6delta/SteamExtract/assets/92498586/cd833748-5e63-4029-a878-0c04ff86229a)
 
-
 > **Nota**: Se generan varios archivos CSV. Los que se encuentran en la carpeta `download` son los que se generan al descargar la información, y los datos dentro de la carpeta `exports` son los que "pueden llegar a ser útiles" pero que no son tan importantes.
+
+7. **crea un .env:** con los datos para conectarse a la BD, se deben dejar los mismos nombres a las variables pero cambiando los valores para funcionar en local
+
+   ![Captura de pantalla 2024-05-25 151242](https://github.com/kt6delta/SteamExtract/assets/92498586/12df6645-964a-4497-aa04-95b5d141e1f6)
 
 Si tienes alguna otra pregunta, no dudes en preguntar.
