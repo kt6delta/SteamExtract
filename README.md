@@ -7,7 +7,7 @@ Steam y SteamSpy
 
 Sigue estos pasos para ejecutar los códigos de datos y limpieza:
 
-1. **Verifica la instalación de Python**: Asegúrate de tener instalado una version de Python >=3.7 o <3.11  en tu sistema. Puedes verificarlo ejecutando el siguiente comando en tu terminal:
+1. **Verifica la instalación de Python**: Asegúrate de tener instalado una *version de Python >=3.7 o <3.11*  en tu sistema. Puedes verificarlo ejecutando el siguiente comando en tu terminal:
     ```bash
     python --version
     ```
@@ -35,8 +35,9 @@ Sigue estos pasos para ejecutar los códigos de datos y limpieza:
     ```
 
 6. **Verifica los resultados**: Ahora, deberías tener un archivo `steam.csv` con la información filtrada. (este archivo se genera en una carpeta data fuera de la carpeta actual)
-   
-![img](https://github.com/kt6delta/Steam_extract/assets/92498586/a7a40451-d509-465c-b36a-85a7d1403268)
+
+   ![Captura de pantalla 2024-05-25 150902](https://github.com/kt6delta/SteamExtract/assets/92498586/cd833748-5e63-4029-a878-0c04ff86229a)
+
 
 > **Nota**: Se generan varios archivos CSV. Los que se encuentran en la carpeta `download` son los que se generan al descargar la información, y los datos dentro de la carpeta `exports` son los que "pueden llegar a ser útiles" pero que no son tan importantes.
 
